@@ -7,11 +7,11 @@ If you think that something is missing and want to add it you can open an issue 
 ## ros2_yocto for i7 x86 architecture
 It also contains commented lines to compile ros2 for developement on x86 architecture for my case I use i7 cpu and Arch Linux.
 ## TODO
---> add vim and other dev tools
---> make two version of the image one for dev and one for prod
---> integrate bash scripts to source ros2 on boot and start your project
---> figure out a way to cross-compile a rosnode from x86 to armv6
---> start building the robot 
+--> add vim and other dev tools<br />
+--> make two version of the image one for dev and one for prod<br />
+--> integrate bash scripts to source ros2 on boot and start your project<br />
+--> figure out a way to cross-compile a rosnode from x86 to armv6<br />
+--> start building the robot <br />
 ## Authors
 
 - [@offgrid88](https://github.com/offgrid88)
